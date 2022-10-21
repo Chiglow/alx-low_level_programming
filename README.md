@@ -1,1 +1,1 @@
-# alx-low_level_programming
+Write a function that prints all the elements
